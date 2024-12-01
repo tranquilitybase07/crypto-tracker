@@ -1,6 +1,10 @@
 # Real-Time Cryptocurrency Tracker
 
-![Crypto Tracker](https://via.placeholder.com/1200x300.png?text=Real-Time+Cryptocurrency+Tracker)
+<div style="width: 100%; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+       alt="Crypto Tracker" 
+       style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 
 ## Overview
 
@@ -71,5 +75,10 @@ The **Real-Time Cryptocurrency Tracker** is a single-page web application (SPA) 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:tranquilitybase07/crypto-tracker.git>
    ```
+2. Cd to directory
+   ```bash
+   cd crypto-tracker
+   ```
+3. Open index.html in your browser.
