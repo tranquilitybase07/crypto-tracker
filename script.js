@@ -10,7 +10,6 @@ async function fetchCryptos() {
     if (!response.ok) throw new Error("Failed to fetch data");
     const data = await response.json();
     coinData = data;
-    console.log("Data", coinData);
     populateCryptoList(data);
   } catch (error) {
     console.error("Error fetching data:", error);
